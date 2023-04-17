@@ -9,4 +9,4 @@ TRAILHEAD PROFILE URL:
 TEAM LEAD: https://trailblazer.me/id/aswis24
 TEAM MEMBER 1: https://trailblazer.me/id/abits9
 TEAM MEMBER 2: https://trailblazer.me/id/abanujv
-TEAM MEMBER 3: trailblazer.me/id/bepsiba
+TEAM MEMBER 3: https://trailblazer.me/id/bepsiba
